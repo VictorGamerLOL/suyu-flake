@@ -1,0 +1,1 @@
+Moved: https://git.suyu.dev/suyu/nix-flake
